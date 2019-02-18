@@ -1,6 +1,6 @@
 {
   "name": "countries-by-gdp-per-capita-cia",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Countries by GDP per capita (PPP) according to CIA (https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html)",
   "main": "build/index.js",
   "scripts": {
