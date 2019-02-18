@@ -114,7 +114,7 @@ async-each@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/async-each/-/async-each-1.0.1.tgz#19d386a1d9edc6e7c1c85d388aedbcc56d33602d"
 
-babel-cli@^6.24.0:
+babel-cli@^6.26.0:
   version "6.26.0"
   resolved "https://registry.yarnpkg.com/babel-cli/-/babel-cli-6.26.0.tgz#502ab54874d7db88ad00b887a06383ce03d002f1"
   dependencies:
@@ -143,7 +143,7 @@ babel-code-frame@^6.16.0, babel-code-frame@^6.26.0:
     esutils "^2.0.2"
     js-tokens "^3.0.2"
 
-babel-core@^6.24.0, babel-core@^6.26.0:
+babel-core@^6.26.0, babel-core@^6.26.3:
   version "6.26.3"
   resolved "https://registry.yarnpkg.com/babel-core/-/babel-core-6.26.3.tgz#b2e2f09e342d0f0c88e2f02e067794125e75c207"
   dependencies:
@@ -193,9 +193,9 @@ babel-messages@^6.23.0:
   dependencies:
     babel-runtime "^6.22.0"
 
-babel-plugin-module-resolver@^3.0.0:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/babel-plugin-module-resolver/-/babel-plugin-module-resolver-3.1.1.tgz#881cf67e3d4b8400d5eaaefc1be44d2dc1fe404f"
+babel-plugin-module-resolver@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-module-resolver/-/babel-plugin-module-resolver-3.2.0.tgz#ddfa5e301e3b9aa12d852a9979f18b37881ff5a7"
   dependencies:
     find-babel-config "^1.1.0"
     glob "^7.1.2"
@@ -203,7 +203,7 @@ babel-plugin-module-resolver@^3.0.0:
     reselect "^3.0.1"
     resolve "^1.4.0"
 
-babel-plugin-transform-es2015-modules-commonjs@^6.24.0:
+babel-plugin-transform-es2015-modules-commonjs@^6.26.2:
   version "6.26.2"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-es2015-modules-commonjs/-/babel-plugin-transform-es2015-modules-commonjs-6.26.2.tgz#58a793863a9e7ca870bdc5a881117ffac27db6f3"
   dependencies:
@@ -227,7 +227,7 @@ babel-polyfill@^6.26.0:
     core-js "^2.5.0"
     regenerator-runtime "^0.10.5"
 
-babel-register@^6.24.0, babel-register@^6.26.0:
+babel-register@^6.26.0:
   version "6.26.0"
   resolved "https://registry.yarnpkg.com/babel-register/-/babel-register-6.26.0.tgz#6ed021173e2fcb486d7acb45c6009a856f647071"
   dependencies:
@@ -334,7 +334,7 @@ chai-as-promised@^6.0.0:
   dependencies:
     check-error "^1.0.2"
 
-chai-subset@^1.5.0:
+chai-subset@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/chai-subset/-/chai-subset-1.6.0.tgz#a5d0ca14e329a79596ed70058b6646bd6988cfe9"
 
@@ -638,7 +638,7 @@ eslint-config-airbnb-base@^8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-airbnb-base/-/eslint-config-airbnb-base-8.0.0.tgz#c5e958a469ab8af76aff068b43d784e5afe74ca7"
 
-eslint-config-airbnb-improved@^2.1.0:
+eslint-config-airbnb-improved@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/eslint-config-airbnb-improved/-/eslint-config-airbnb-improved-2.3.0.tgz#f99495f5671226bd2625a1bca3fb0d120a7e7ec5"
   dependencies:
@@ -1453,7 +1453,7 @@ mkdirp@0.5.1, mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-mocha@^3.2.0:
+mocha@^3.5.3:
   version "3.5.3"
   resolved "https://registry.yarnpkg.com/mocha/-/mocha-3.5.3.tgz#1e0480fe36d2da5858d1eb6acc38418b26eaa20d"
   dependencies:
@@ -1940,11 +1940,11 @@ sinon-as-promised@^4.0.3:
     create-thenable "~1.0.0"
     native-promise-only "~0.8.1"
 
-sinon-chai@^2.9.0:
+sinon-chai@^2.14.0:
   version "2.14.0"
   resolved "https://registry.yarnpkg.com/sinon-chai/-/sinon-chai-2.14.0.tgz#da7dd4cc83cd6a260b67cca0f7a9fdae26a1205d"
 
-sinon@^2.1.0:
+sinon@^2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/sinon/-/sinon-2.4.1.tgz#021fd64b54cb77d9d2fb0d43cdedfae7629c3a36"
   dependencies:
